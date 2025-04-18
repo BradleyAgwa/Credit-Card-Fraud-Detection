@@ -101,12 +101,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 
-**Bradley Agwa**
-**Candence Chumba**
-**Tyrone Darren**
-**Melissa Wachira**
-**Mishiel Nasambu Wakoli**
-**Joseph Kamau**  
+- **Bradley Agwa**
+- **Candence Chumba**
+- **Tyrone Darren**
+- **Melissa Wachira**
+- **Mishiel Nasambu Wakoli**
+- **Joseph Kamau**  
 
 
 ---
